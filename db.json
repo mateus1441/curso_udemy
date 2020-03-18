@@ -5,18 +5,7 @@
     "filial": "0001",
     "flag_rest": 0,
     "flag_sicap": 0,
-    "logo": "https://firebasestorage.googleapis.com/v0/b/sicap-mobile.appspot.com/o/sicap.png?alt=media&token=758fc8f2-17fd-49f3-ad90-58a76270fbe7"}
+    "logo": "https://firebasestorage.googleapis.com/v0/b/sicap-mobile.appspot.com/o/sicap.png?alt=media&token=758fc8f2-17fd-49f3-ad90-58a76270fbe7"
+    }
   ],
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
