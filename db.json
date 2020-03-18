@@ -1,11 +1,47 @@
 {
   "empresas": [
+    {"bd": "http://192.168.15.100:8080/cardapio-mobile/",
+    "empresa": "Castelo",
+    "filial": "0004",
+    "flag_rest": 0,
+    "flag_sicap": 0,
+    "logo": "https://firebasestorage.googleapis.com/v0/b/sicap-mobile.appspot.com/o/sertanense.jpg?alt=media&token=dd9a6c03-c434-4270-a7e8-6223d870c71a"
+    },
+    {"bd": "http://192.168.3.35:8080/cardapio-mobile/",
+    "empresa": "Cilantro - Setubal",
+    "filial": "0003",
+    "flag_rest": 0,
+    "flag_sicap": 0,
+    "logo": "https://firebasestorage.googleapis.com/v0/b/sicap-mobile.appspot.com/o/cilantro.jpg?alt=media&token=4cf5d3f9-2d68-4409-b9d1-41eecaa20f99"
+    },
+    {"bd": "http://192.168.15.250:8080/cardapio-mobile/",
+    "empresa": "Padaria Unitop",
+    "filial": "0002",
+    "flag_rest": 0,
+    "flag_sicap": 0,
+    "logo": "https://firebasestorage.googleapis.com/v0/b/sicap-mobile.appspot.com/o/unitop.jpg?alt=media&token=c6226b92-dccd-47b0-b586-bcea206ba4af"
+    },
+    {"bd": "http://192.168.1.220:8080/cardapio-mobile/",
+    "empresa": "Sertanense - Imperatriz",
+    "filial": "0001",
+    "flag_rest": 0,
+    "flag_sicap": 0,
+    "logo": "https://firebasestorage.googleapis.com/v0/b/sicap-mobile.appspot.com/o/sertanense.jpg?alt=media&token=dd9a6c03-c434-4270-a7e8-6223d870c71a"
+    },
     {"bd": "http://192.168.254.253:8080/cardapio-mobile/",
     "empresa": "Teste - Local",
     "filial": "0001",
     "flag_rest": 0,
     "flag_sicap": 0,
-    "logo": "https://firebasestorage.googleapis.com/v0/b/sicap-mobile.appspot.com/o/sicap.png?alt=media&token=758fc8f2-17fd-49f3-ad90-58a76270fbe7"}
+    "logo": "https://firebasestorage.googleapis.com/v0/b/sicap-mobile.appspot.com/o/sicap.png?alt=media&token=758fc8f2-17fd-49f3-ad90-58a76270fbe7"
+    },
+    {"bd": "http://cfi.ddns.net:8080/cardapio-mobile/",
+    "empresa": "Teste - Remoto",
+    "filial": "0001",
+    "flag_rest": 0,
+    "flag_sicap": 0,
+    "logo": "https://firebasestorage.googleapis.com/v0/b/sicap-mobile.appspot.com/o/cfiquadrado.png?alt=media&token=fadfd2e9-a1f4-4249-a6cd-327b2ee21b0b"
+    }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
