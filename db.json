@@ -1,4 +1,12 @@
 {
+  "empresas": [
+    {"bd": "http://192.168.254.253:8080/cardapio-mobile/",
+    "empresa": "Teste - Local",
+    "filial": "0001",
+    "flag_rest": 0,
+    "flag_sicap": 0,
+    "logo": "https://firebasestorage.googleapis.com/v0/b/sicap-mobile.appspot.com/o/sicap.png?alt=media&token=758fc8f2-17fd-49f3-ad90-58a76270fbe7"}
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
