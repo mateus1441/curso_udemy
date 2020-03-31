@@ -43,6 +43,12 @@
     "logo": "https://firebasestorage.googleapis.com/v0/b/sicap-mobile.appspot.com/o/cfiquadrado.png?alt=media&token=fadfd2e9-a1f4-4249-a6cd-327b2ee21b0b"
     }
   ],
+  "segmentos": [
+    {"segmento": "Comércio"},
+    {"segmento": "Indústria"},
+    {"segmento": "Restaurante"},
+    {"segmento": "Serviço"}
+  ]
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
